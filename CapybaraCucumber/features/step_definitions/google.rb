@@ -9,13 +9,12 @@ Então('deverá exibir o logo do Google') do
 end
 
 Quando('buscar por {string}') do |termo|
-    find("#APjFqb").set termo
-    click_button "Pesquisa Google"
-    # @google_home.search_for(termo)
-    # @google_results = GoogleResults.new
-
+    @google_home = GoogleHome.new
+    @google_home.load
+    @google_home.search_for(termo)
 end
 
 Então('deverão ser encontrados resultados') do
+    @google_results = GoogleResults.new
     expect(@google_results).to have_content 'Jeep Compass'
 end

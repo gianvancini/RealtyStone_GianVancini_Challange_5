@@ -7,5 +7,5 @@ Cenário: Carregar a pagina do Google
     Então deverá exibir o logo do Google
 
 Cenário: Buscar por compass
-    Dado buscar por 'Compass' 
+    Dado buscar por "Compass"
     Então deverão ser encontrado resultados
