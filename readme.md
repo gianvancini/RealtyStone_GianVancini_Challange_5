@@ -25,7 +25,7 @@ Com um passo de cada vez, estou aprendendo novas tecnologias, formando uma base 
 
 ### Passo a Passo
 
-Obs: Dentro deste repositório há 3 pastas, contendo o avanço do conhecimento. Cada uma das pastas tem testes diferentes, assim como novas funcionalidades. Vou mostrar como executar cada uma delas.
+Dentro deste repositório há 3 pastas, contendo o avanço do conhecimento. Cada uma das pastas tem testes diferentes, assim como novas funcionalidades. Vou mostrar como executar cada uma delas.
 
 - Clonar o repositório "RealtyStone_GianVancini_Challange_5" do GitHub
 
