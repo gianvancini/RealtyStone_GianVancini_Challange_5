@@ -1,18 +1,18 @@
 ## Site Livelo
 
-- Botao Carrinho -> id="a-linkCart"
-- Botao Login -> id="div-controlLogin"
-- Botao Cadastro -> id="div-controlSignup"
+- Botao Carrinho -> #div-controlCart'
+- Botao Login -> #div-controlLogin'
+- Botao Cadastro -> #div-controlSignup'
 
 ## Site Divvino
 
-- Array de botões de categorias -> /html/body/div[5]/div/div[1]/div/div[2]/div/div[3]/div/div/nav/ul
-- Array de produtos (box  do produto) -> /html/body/div[5]/div/div[1]/div/div[3]/div/div[1]/div[6]/div/div/div/div[2]
-- ícone de lupa da busca -> /html/body/div[5]/div/div[1]/div/div[2]/div/div[2]/div/div[2]/div/div/div[1]/div/label/div/span/div/div/button
-- botão de 'ir para o carrinho' -> /html/body/div[5]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div/div/div[2]/aside/div/div/button/div
+- Array de botões de categorias -> //body/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/ul[1]
+- Array de produtos (box  do produto) -> //body[1]/div[5]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]
+- ícone de lupa da busca -> //body/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/label[1]/div[1]/span[1]/div[1]/div[1]/button[1]
+- botão de 'ir para o carrinho' -> //body[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/aside[1]/div[1]/div[1]/button[1]/div[1]
 
 ## Site Google
 
-- campo de busca -> id="APjFqb"
-- botão 'Pesquisa Google' -> class="gNO89b"
-- Array de links trazidos na busca -> id="rso"
+- campo de busca -> #APjFqb
+- botão 'Pesquisa Google' -> .gNO89b
+- Array de links trazidos na busca -> #rso
