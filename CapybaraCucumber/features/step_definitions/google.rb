@@ -14,7 +14,7 @@ Quando('buscar por {string}') do |termo|
     @google_home.search_for(termo)
 end
 
-Então('deverão ser encontrados resultados') do
+Então('deverão ser encontrado resultados') do
     @google_results = GoogleResults.new
     expect(@google_results).to have_content 'Jeep Compass'
 end
