@@ -14,7 +14,30 @@ Com um passo de cada vez, estou aprendendo novas tecnologias, formando uma base 
 - Cucumber
 - Capybara
 - Selenium-webdriver 
-- RSpec.
+- SitePrism
+- PageObjects
+
+## Como executar o projeto
+
+### Requisitos
+
+    Para executar o projeto e rodar os testes, é necessário ter instalado em sua máquina o Ruby.
+
+### Passo a Passo
+
+OBS: Dentro deste repositório há 3 pastas, contendo o avanço do conhecimento. Cada uma das pastas tem testes diferentes, assim como novas funcionalidades. Vou mostrar como executar cada uma delas.
+
+- Clonar o repositório "RealtyStone_GianVancini_Challange_5" do GitHub
+- Acessar a pasta "CapybaraCucumber" com o terminal de comandos
+- Executar no terminal o comando:
+```bash
+    bundle install
+```
+- Para executar os testes no site do Google, digite no terminal:
+```bash
+    bundle exec cucumber
+```
+
 
 ## Autor
 
