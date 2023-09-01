@@ -21,7 +21,7 @@ Com um passo de cada vez, estou aprendendo novas tecnologias, formando uma base 
 
 ### Requisitos
 
-    Para executar o projeto e rodar os testes, é necessário ter instalado em sua máquina o Ruby.
+Para executar o projeto e rodar os testes, é necessário ter instalado em sua máquina o Ruby.
 
 ### Passo a Passo
 
